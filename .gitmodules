@@ -1,0 +1,3 @@
+[submodule "angularplasmid"]
+	path = angularplasmid
+	url = https://github.com/vixis/angularplasmid.git
