@@ -1,3 +1,6 @@
 [submodule "angularplasmid"]
 	path = angularplasmid
-	url = https://github.com/vixis/angularplasmid.git
+	url = git@github.com:ProfFan/angularplasmid.git
+[submodule "genbank-parser"]
+	path = genbank-parser
+	url = https://github.com/ProfFan/genbank-parser.git

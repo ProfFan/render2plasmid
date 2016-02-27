@@ -1,0 +1,28 @@
+{
+  "name": "render2plasmid",
+  "version": "1.0.0",
+  "description": "Render a plasmid map using phantomjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ProfFan/render2plasmid.git"
+  },
+  "keywords": [
+    "render",
+    "plasmid"
+  ],
+  "author": "Fan Jiang <prof.fan@foxmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ProfFan/render2plasmid/issues"
+  },
+  "homepage": "https://github.com/ProfFan/render2plasmid#readme",
+  "dependencies": {
+    "handlebars": "^4.0.5",
+    "phantomjs-prebuilt": "^2.1.4",
+    "randomcolor": "^0.4.3"
+  }
+}
